@@ -39,7 +39,7 @@ img {
   border-radius: 25px;
 }
 
-#important {
+.important {
   font-family: "Impact";
   font-weight: 900;
   font-style: italic;
