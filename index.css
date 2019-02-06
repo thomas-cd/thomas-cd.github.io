@@ -1,0 +1,47 @@
+/* Style sheet for index.html */
+
+body {
+    font-family: "Courier";
+    background-color: AliceBlue;
+    color: FireBrick;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* from https://www.w3schools.com/css/css_link.asp */
+/* unvisited link */
+a:link {
+  color: Magenta;
+  text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+  color: LightSeaGreen;
+  text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+  color: DarkBlue;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: MidnightBlue;
+}
+
+img {
+  width: 50%;
+  border-color: Gold;
+  border-style: dotted;
+  border-radius: 25px;
+}
+
+#important {
+  font-family: "Impact";
+  font-weight: 900;
+  font-style: italic;
+  font-size: 24px;
+}
