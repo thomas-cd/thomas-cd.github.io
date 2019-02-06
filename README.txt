@@ -1,6 +1,8 @@
 COMP20 Assignment 1
 tchang06
 
+----
+
 IMPLEMENTED CORRECTLY
 resume.html includes all required parts
 bio.html includes all required parts
